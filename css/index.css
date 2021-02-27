@@ -70,6 +70,15 @@ h1 {
     text-align:center;
 }
 
+h2 {
+    font-size: 11;
+    font-weight: normal;
+    margin: 0;
+    overflow: visible;
+    padding: 0px;
+    text-align: center;
+}
+
 .event {
     border-radius:4px;
     -webkit-border-radius:4px;
